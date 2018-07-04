@@ -1,0 +1,7 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\AdapterExample\bin\Debug\AdapterExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\AdapterExample\bin\Debug\AdapterExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\AdapterExample\bin\Debug\AdapterExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\AdapterExample\obj\Debug\AdapterExample.csprojAssemblyReference.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\AdapterExample\obj\Debug\AdapterExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\AdapterExample\obj\Debug\AdapterExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\AdapterExample\obj\Debug\AdapterExample.pdb
