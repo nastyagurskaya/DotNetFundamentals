@@ -1,0 +1,7 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\DecoratorExample\bin\Debug\DecoratorExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\DecoratorExample\bin\Debug\DecoratorExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\DecoratorExample\bin\Debug\DecoratorExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\DecoratorExample\obj\Debug\DecoratorExample.csprojAssemblyReference.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\DecoratorExample\obj\Debug\DecoratorExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\DecoratorExample\obj\Debug\DecoratorExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\DecoratorExample\obj\Debug\DecoratorExample.pdb
