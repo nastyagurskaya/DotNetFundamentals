@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeExample", "Composi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyExample", "ProxyExample\ProxyExample.csproj", "{430522FA-6347-4B21-AC8B-80B5E036F4A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeExample", "BridgeExample\BridgeExample.csproj", "{AF305CB2-88C9-4BDC-A3FC-B324236AC69D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightExample", "FlyweightExample\FlyweightExample.csproj", "{4A4080F2-0D5D-4A94-9951-2C0560A59D98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{430522FA-6347-4B21-AC8B-80B5E036F4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{430522FA-6347-4B21-AC8B-80B5E036F4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{430522FA-6347-4B21-AC8B-80B5E036F4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF305CB2-88C9-4BDC-A3FC-B324236AC69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF305CB2-88C9-4BDC-A3FC-B324236AC69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF305CB2-88C9-4BDC-A3FC-B324236AC69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF305CB2-88C9-4BDC-A3FC-B324236AC69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A4080F2-0D5D-4A94-9951-2C0560A59D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4080F2-0D5D-4A94-9951-2C0560A59D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4080F2-0D5D-4A94-9951-2C0560A59D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4080F2-0D5D-4A94-9951-2C0560A59D98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

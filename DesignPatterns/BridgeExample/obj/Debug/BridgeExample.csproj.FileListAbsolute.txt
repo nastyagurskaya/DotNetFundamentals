@@ -1,0 +1,7 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\BridgeExample\bin\Debug\BridgeExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\BridgeExample\bin\Debug\BridgeExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\BridgeExample\bin\Debug\BridgeExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\BridgeExample\obj\Debug\BridgeExample.csprojAssemblyReference.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\BridgeExample\obj\Debug\BridgeExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\BridgeExample\obj\Debug\BridgeExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\BridgeExample\obj\Debug\BridgeExample.pdb

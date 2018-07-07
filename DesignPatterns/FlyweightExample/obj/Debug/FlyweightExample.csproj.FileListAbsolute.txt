@@ -1,0 +1,6 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\FlyweightExample\bin\Debug\FlyweightExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\FlyweightExample\bin\Debug\FlyweightExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\FlyweightExample\bin\Debug\FlyweightExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\FlyweightExample\obj\Debug\FlyweightExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\FlyweightExample\obj\Debug\FlyweightExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\FlyweightExample\obj\Debug\FlyweightExample.pdb
