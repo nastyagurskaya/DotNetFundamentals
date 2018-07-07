@@ -1,0 +1,7 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\CompositeExample\bin\Debug\CompositeExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\CompositeExample\bin\Debug\CompositeExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\CompositeExample\bin\Debug\CompositeExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\CompositeExample\obj\Debug\CompositeExample.csprojAssemblyReference.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\CompositeExample\obj\Debug\CompositeExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\CompositeExample\obj\Debug\CompositeExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\CompositeExample\obj\Debug\CompositeExample.pdb

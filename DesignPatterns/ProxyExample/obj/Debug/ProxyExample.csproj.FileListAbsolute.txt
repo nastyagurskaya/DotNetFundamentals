@@ -1,0 +1,14 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\bin\Debug\ProxyExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\bin\Debug\ProxyExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\bin\Debug\ProxyExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\bin\Debug\EntityFramework.dll
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\bin\Debug\EntityFramework.xml
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\obj\Debug\ProxyExample.csprojAssemblyReference.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\obj\Debug\ProxyExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\obj\Debug\ProxyExample.csproj.CopyComplete
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\obj\Debug\ProxyExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\obj\Debug\ProxyExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\obj\Debug\ProxyExample.Migrations.initial.resources
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ProxyExample\obj\Debug\ProxyExample.csproj.GenerateResource.cache
