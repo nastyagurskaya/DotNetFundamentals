@@ -1,0 +1,7 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\StrategyExample\bin\Debug\StrategyExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\StrategyExample\bin\Debug\StrategyExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\StrategyExample\bin\Debug\StrategyExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\StrategyExample\obj\Debug\StrategyExample.csprojAssemblyReference.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\StrategyExample\obj\Debug\StrategyExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\StrategyExample\obj\Debug\StrategyExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\StrategyExample\obj\Debug\StrategyExample.pdb

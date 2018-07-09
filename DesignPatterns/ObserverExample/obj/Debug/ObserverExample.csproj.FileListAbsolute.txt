@@ -1,0 +1,7 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ObserverExample\bin\Debug\ObserverExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ObserverExample\bin\Debug\ObserverExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ObserverExample\bin\Debug\ObserverExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ObserverExample\obj\Debug\ObserverExample.csprojAssemblyReference.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ObserverExample\obj\Debug\ObserverExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ObserverExample\obj\Debug\ObserverExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\ObserverExample\obj\Debug\ObserverExample.pdb
