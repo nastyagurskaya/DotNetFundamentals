@@ -1,0 +1,7 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\TempMethodExample\bin\Debug\TempMethodExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\TempMethodExample\bin\Debug\TempMethodExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\TempMethodExample\bin\Debug\TempMethodExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\TempMethodExample\obj\Debug\TempMethodExample.csprojAssemblyReference.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\TempMethodExample\obj\Debug\TempMethodExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\TempMethodExample\obj\Debug\TempMethodExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\TempMethodExample\obj\Debug\TempMethodExample.pdb
