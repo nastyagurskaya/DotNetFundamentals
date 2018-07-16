@@ -1,0 +1,7 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MementoExample\bin\Debug\MementoExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MementoExample\bin\Debug\MementoExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MementoExample\bin\Debug\MementoExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MementoExample\obj\Debug\MementoExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MementoExample\obj\Debug\MementoExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MementoExample\obj\Debug\MementoExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MementoExample\obj\Debug\MementoExample.csprojAssemblyReference.cache

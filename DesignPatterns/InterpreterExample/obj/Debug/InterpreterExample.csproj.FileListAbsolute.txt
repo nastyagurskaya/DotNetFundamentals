@@ -1,0 +1,7 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\InterpreterExample\bin\Debug\InterpreterExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\InterpreterExample\bin\Debug\InterpreterExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\InterpreterExample\bin\Debug\InterpreterExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\InterpreterExample\obj\Debug\InterpreterExample.csprojAssemblyReference.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\InterpreterExample\obj\Debug\InterpreterExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\InterpreterExample\obj\Debug\InterpreterExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\InterpreterExample\obj\Debug\InterpreterExample.pdb

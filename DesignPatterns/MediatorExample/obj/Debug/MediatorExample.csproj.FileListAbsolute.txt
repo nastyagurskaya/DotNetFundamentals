@@ -1,0 +1,6 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MediatorExample\bin\Debug\MediatorExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MediatorExample\bin\Debug\MediatorExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MediatorExample\bin\Debug\MediatorExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MediatorExample\obj\Debug\MediatorExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MediatorExample\obj\Debug\MediatorExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\MediatorExample\obj\Debug\MediatorExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\VisitorExample\bin\Debug\VisitorExample.exe.config
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\VisitorExample\bin\Debug\VisitorExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\VisitorExample\bin\Debug\VisitorExample.pdb
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\VisitorExample\obj\Debug\VisitorExample.csprojAssemblyReference.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\VisitorExample\obj\Debug\VisitorExample.csproj.CoreCompileInputs.cache
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\VisitorExample\obj\Debug\VisitorExample.exe
+C:\Users\NastyaGurskaya\source\repos\FacadeExample\VisitorExample\obj\Debug\VisitorExample.pdb
